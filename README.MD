@@ -12,4 +12,4 @@ CiiLu's versions are available under the following sites to download:
 [MC百科](https://www.mcmod.cn/class/13657.html)
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hideasterisk)
 
-My builds will only be available on GitHub under [Releases](https://github.com/DavidCGranger/HideModded/releases/latest)
+My builds will only be available on GitHub under [Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
