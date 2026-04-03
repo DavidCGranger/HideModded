@@ -1,4 +1,4 @@
-## HideModded”
+## HideModded
 
 After the version 1.15.2, if the game is modified, "(Modded)" will appear in the main menu game version number and "*" will appear in the game title bar.
 
