@@ -3,12 +3,12 @@
   "id": "hidemodded",
   "version": "${version}",
   "name": "HideModded",
-  "description": "隐藏标题栏的*以及'已修改'",
+  "description": "This hides the asterisk in the title bar and the Modded-tag on the main menu",
   "authors": [
-    "CiLuQwQ"
+    "CiLuQwQ", "DavidCGranger"
   ],
   "contact": {
-    "repo": "https://github.com/CiLuQwQ/HideModded"
+    "repo": "https://github.com/DavidCGranger/HideModded"
   },
   "license": "GPL-3.0",
   "icon": "assets/hidemodded/icon.png",
@@ -23,7 +23,7 @@
   ],
   "depends": {
     "fabricloader": "*",
-    "fabric": "*",
-    "minecraft": ">=1.18"
+    "fabric-api": "*",
+    "minecraft": ">=26.1"
   }
 }

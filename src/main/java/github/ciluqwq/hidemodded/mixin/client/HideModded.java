@@ -1,16 +1,16 @@
 package github.ciluqwq.hidemodded.mixin.client;
 
-import net.minecraft.util.ModStatus;
+import net.minecraft.util.ModCheck;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Overwrite;
-@Mixin(ModStatus.class)
+@Mixin(ModCheck.class)
 public class HideModded {
     /**
      * @author CiLuQwQ
      * @reason
      */
     @Overwrite
-    public boolean isModded() {
+    public boolean shouldReportAsModified() {
         return false;
     }
 }
